@@ -14,5 +14,6 @@ public class HelloGit {
         System.out.println("添加");
         System.out.println("在线测试冲突");
         System.out.println("线下测试冲突");
+        System.out.println("线上拉去冲突测试");
     }
 }
