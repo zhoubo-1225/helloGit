@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println("线上修改");
         System.out.println("添加");
         System.out.println("测试");
+        System.out.println("克隆添加");
     }
 }
